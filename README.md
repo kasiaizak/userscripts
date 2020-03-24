@@ -8,4 +8,4 @@ For example:
 ## WordPress Customize Panel Resizer
 Userscript to change the minimum width of the customization panel in WordPress.
 
-* Open the script from [this link](https://raw.githubusercontent.com/kasiaizak/WordPress-Customize-Panel-Resizer/master/wp-customize-panel-resizer.user.js) and install it in your _script manager_.
+* Open the script from [this link](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js) and install it in your _script manager_.
