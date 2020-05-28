@@ -5,12 +5,12 @@ For example:
 * [Violentmonkey](https://violentmonkey.github.io/) for Chrome, Firefox, Edge, Opera, Vivaldi and more Chromium based browsers
 * [Greasemonkey](https://www.greasespot.net/) for Firefox
 
-## WordPress Customize Panel Resizer
-Userscript to change the minimal width of the customization panel in WordPress.
+### What next?
 
-* Open the script from [this link](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js) and install it in your _script manager_.
+* Open a script you are interested in and install it in your _script manager_.
+
+## WordPress Customize Panel Resizer
+Userscript to change the minimal width of the customization panel in WordPress > [Install WP Customize Panel Resizer](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js)
 
 ## Photopea Hide Ads
-Userscript to hide ads on Photopea.
-
-* Open the script from [this link](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.user.js) and install it in your _script manager_.
+Userscript to hide ads on Photopea > [Install Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.user.js) 
