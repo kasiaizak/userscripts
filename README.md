@@ -9,3 +9,8 @@ For example:
 Userscript to change the minimal width of the customization panel in WordPress.
 
 * Open the script from [this link](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js) and install it in your _script manager_.
+
+## Photopea Hide Ads
+Userscript to hide ads on Photopea.
+
+* Open the script from [this link](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.user.js) and install it in your _script manager_.
