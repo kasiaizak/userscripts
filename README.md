@@ -13,4 +13,4 @@ For example:
 Userscript to change the minimal width of the customization panel in WordPress > [Install WP Customize Panel Resizer](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js)
 
 ## Photopea Hide Ads
-Userscript to hide ads on Photopea > [Install Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.user.js) 
+Userscript to hide ads on Photopea > [Install Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.js) 
