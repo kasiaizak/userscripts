@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LastPass Hide Ads
 // @namespace    https://kasiaizak.github.io/userscripts/
-// @version      1.0
+// @version      1.1
 // @description  Hide Ads on LastPass
 // @author       Kasia Izak
 // @match        https://lastpass.com/*
@@ -26,7 +26,3 @@
     hideAds('#options {width: 100%;}');
     hideAds('#main {width: 100%;}');
 })();
-
-div#ad.middlePosition {
-    display: none;
-}
