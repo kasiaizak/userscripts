@@ -9,8 +9,11 @@ For example:
 
 * Open a script you are interested in and install it in your _script manager_.
 
-## WordPress Customize Panel Resizer
-Userscript to change the minimal width of the customization panel in WordPress > [Install WP Customize Panel Resizer](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js)
+## LastPass Hide Ads
+Userscript to hide ads on LastPass and resize main content > [Install Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/lastpass-hide-ads.user.js)
 
 ## Photopea Hide Ads
-Userscript to hide ads on Photopea > [Install Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.js) 
+Userscript to hide ads on Photopea > [Install Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.js)
+
+## WordPress Customize Panel Resizer
+Userscript to change the minimal width of the customization panel in WordPress > [Install WP Customize Panel Resizer](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js)
