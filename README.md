@@ -10,7 +10,7 @@ For example:
 * Open a script you are interested in and install it in your _script manager_.
 
 ## LastPass Hide Ads
-Userscript to hide ads on LastPass and resize main content > [Install Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/lastpass-hide-ads.user.js)
+Userscript to hide ads on LastPass and resize main content > [Install LastPass Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/lastpass-hide-ads.user.js)
 
 ## Photopea Hide Ads
 Userscript to hide ads on Photopea > [Install Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.js)
