@@ -13,7 +13,7 @@ For example:
 Userscript to hide ads on LastPass and resize main content > [Install LastPass Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/lastpass-hide-ads.user.js)
 
 ## Photopea Hide Ads
-Userscript to hide ads on Photopea > [Install Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.js)
+Userscript to hide ads and resize working area on Photopea (minimum screen width recommended: 900px > [Install Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.js)
 
 ## WordPress Customize Panel Resizer
 Userscript to change the minimal width of the customization panel in WordPress > [Install WP Customize Panel Resizer](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js)
