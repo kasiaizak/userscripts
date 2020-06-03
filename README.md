@@ -10,12 +10,6 @@ For example:
 
 * Open a script you are interested in and install it in your _script manager_.
 
-## LastPass Hide Ads
-
-Userscript to hide ads on LastPass and resize main content.
-
-[Click here to install: LastPass Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/lastpass-hide-ads.user.js)
-
 ## Photopea Hide Ads
 
 Userscript to hide ads and resize working area on Photopea (minimum screen width recommended: 900px).
