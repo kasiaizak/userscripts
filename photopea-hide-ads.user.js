@@ -24,4 +24,10 @@
     }
 
     hideAds('.photopea.flexrow > div:nth-of-type(2)[style] {display: none !important;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) {flex-basis: 100%}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div:nth-of-type(3)[style] {width: 100% !important}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2)[style] {width: 80vw !important}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.panelblock.mainblock > div.block > div:nth-of-type(2)[style] {width: 77vw !important}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.panelblock.mainblock > div.block > div.panelhead[style] {max-width: 100% !important}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.panelblock.mainblock > div.block > div:nth-of-type(2) > div.pbody > canvas[style] {width: 100% !important}');
 })();
