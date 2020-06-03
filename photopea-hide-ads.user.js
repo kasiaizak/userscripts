@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Photopea Hide Ads
 // @namespace    https://kasiaizak.github.io/userscripts/
-// @version      1.2
+// @version      2.0
 // @description  Hide Ads on Photopea
 // @author       Kasia Izak
 // @match        *www.photopea.com/*
