@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Photopea Hide Ads
 // @namespace    https://kasiaizak.github.io/userscripts/
-// @version      2.0
+// @version      2.1
 // @description  Hide Ads on Photopea
 // @author       Kasia Izak
 // @match        *www.photopea.com/*
@@ -24,10 +24,15 @@
     }
 
     hideAds('.photopea.flexrow > div:nth-of-type(2)[style] {display: none !important;}');
-    hideAds('.photopea.flexrow > div:nth-of-type(1) {flex-basis: 100%}');
-    hideAds('.photopea.flexrow > div:nth-of-type(1) > div:nth-of-type(3)[style] {width: 100% !important}');
-    hideAds('.photopea.flexrow > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2)[style] {width: 80vw !important}');
-    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.panelblock.mainblock > div.block > div:nth-of-type(2)[style] {width: 77vw !important}');
-    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.panelblock.mainblock > div.block > div.panelhead[style] {max-width: 100% !important}');
-    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.panelblock.mainblock > div.block > div:nth-of-type(2) > div.pbody > canvas[style] {width: 100% !important}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) {flex-basis: 100%;max-width:100vw;box-sizing: border-box;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div:nth-of-type(3)[style] {width: 100% !important;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) {display: initial !important;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2)[style] {width:100% !important;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div.confbar {width: 100%;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.sbar.toolbar[style] {overflow: initial !important;max-width: 4vw;box-sizing: border-box;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.panelblock.mainblock {width: 74vw;box-sizing: border-box;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.panelblock.mainblock > div.block > div:nth-of-type(2)[style] {width: auto !important;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.panelblock.mainblock > div.block > div.panelhead[style] {max-width: 100% !important;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.panelblock.mainblock > div.block > div:nth-of-type(2) > div.pbody > canvas[style] {width: 100% !important;}');
+    hideAds('.photopea.flexrow > div:nth-of-type(1) > div.flexrow > div.rightbar {max-width: 31vw;box-sizing: border-box;}');
 })();
