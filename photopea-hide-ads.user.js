@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Photopea Hide Ads
 // @namespace    https://kasiaizak.github.io/userscripts/
-// @version      2.1
+// @version      2.2
 // @description  Hide Ads on Photopea
 // @author       Kasia Izak
 // @match        *www.photopea.com/*
@@ -23,6 +23,7 @@
         head.appendChild(style);
     }
 
+    hideAds('.photopea.flexrow {overflow: hidden;}');
     hideAds('.photopea.flexrow > div:nth-of-type(2)[style] {display: none !important;}');
     hideAds('.photopea.flexrow > div:nth-of-type(1) {flex-basis: 100%;max-width:100vw;box-sizing: border-box;}');
     hideAds('.photopea.flexrow > div:nth-of-type(1) > div:nth-of-type(3)[style] {width: 100% !important;}');
