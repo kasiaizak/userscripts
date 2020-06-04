@@ -10,14 +10,6 @@ For example:
 
 * Open a script you are interested in and install it in your _script manager_.
 
-## Photopea Hide Ads
-
-Userscript to hide ads and resize working area on Photopea (minimum screen width recommended: 900px).
-
-Script created for testing the program (ads make the workspace a bit too small, especially on smaller screens). If you like Photopea and intend to use it regularly, I encourage you to support the author of the project by purchasing a Premium subscription. The subscription removes ads, but also increases the number of steps available in history.
-
-[Click here to install: Photopea Hide Ads](https://raw.githubusercontent.com/kasiaizak/userscripts/master/photopea-hide-ads.user.js)
-
 ## WordPress Customize Panel Resizer
 
 Userscript to change the minimal width of the customization panel in WordPress.
