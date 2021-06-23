@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WordPress Customize Panel Resizer
 // @namespace    https://kasiaizak.github.io/userscripts/
-// @version      1.0
+// @version      1.1
 // @description  Changes the minimum width of the customization panel in WordPress
 // @author       Kasia Izak
 // @match        */wp-admin/customize.php*
@@ -22,6 +22,7 @@
         style.innerHTML = css;
         head.appendChild(style);
     }
-    panelResizer('.wp-full-overlay.expanded {margin-left: 25vw;}');
+    panelResizer('.wp-full-overlay.expanded {min-width: 25vw; margin-left: 25%;}');
     panelResizer('.wp-full-overlay-sidebar {min-width: 25vw;}');
+    panelResizer('.expanded .wp-full-overlay-footer {max-width: 25vw; width: calc(25vw - 1px);}');
 })();
