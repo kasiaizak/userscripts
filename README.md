@@ -15,3 +15,9 @@ For example:
 Userscript to change the minimal width of the customization panel in WordPress.
 
 [Click here to install: WP Customize Panel Resizer](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js)
+
+## WordPress Local Hide Notice
+
+Userscript to hide PHP notice on WordPress site in local domain.
+
+[Click here to install: WP Local Hide Notice](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-local-hide-notice.user.js)
