@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         WordPress Customize Panel Resizer
 // @namespace    https://kasiaizak.github.io/userscripts/
-// @version      1.1
+// @version      1.2
 // @description  Changes the minimum width of the customization panel in WordPress
 // @author       Kasia Izak
 // @match        */wp-admin/customize.php*
+// @match        */wp/wp-admin/customize.php*
 // @icon         https://kasiaizak.github.io/userscripts/img/wp.png
 // @updateURL    https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js
 // @downloadURL  https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js
