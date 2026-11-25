@@ -23,9 +23,3 @@ Userscript to hide 'Compare & pull request' button on GitHub.
 Userscript to change the minimal width of the customization panel in WordPress.
 
 [Click here to install: WP Customize Panel Resizer](https://raw.githubusercontent.com/kasiaizak/userscripts/master/wp-customize-panel-resizer.user.js)
-
-### Resizer for LastPass
-
-Changes the maximum width of the Edit Identity Popup
-
-[Click here to install: Resizer for LastPass](https://raw.githubusercontent.com/kasiaizak/userscripts/master/lastpass-resizer.user.js)
