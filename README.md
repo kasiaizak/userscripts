@@ -12,6 +12,12 @@ For example:
 
 * Open a script you are interested in and install it in your _script manager_.
 
+### Hide PR message on GitHub
+
+Userscript to hide 'Compare & pull request' button on GitHub.
+
+[Click here to install: Hide PR message on GitHub](https://raw.githubusercontent.com/kasiaizak/userscripts/master/hide-github-pr-button.user.js)
+
 ### WordPress Customize Panel Resizer
 
 Userscript to change the minimal width of the customization panel in WordPress.
