@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Hide PR message on GitHub
 // @namespace    https://kasiaizak.github.io/userscripts/
-// @version      1.0
+// @version      1.0.1
 // @description  Hide 'Compare & pull request' button on GitHub
 // @author       Kasia Izak
-// @match        *https://github.com/*
+// @match        https://github.com/*
 // @icon         https://kasiaizak.github.io/userscripts/img/github.png
 // @updateURL    https://raw.githubusercontent.com/kasiaizak/userscripts/master/hide-github-pr-button.user.js
 // @downloadURL  https://raw.githubusercontent.com/kasiaizak/userscripts/master/hide-github-pr-button.user.js
